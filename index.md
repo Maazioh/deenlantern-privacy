@@ -1,6 +1,6 @@
 Deen Lantern — Privacy Policy
 
-Last updated: [date]
+Last updated: May 11, 2026
 
 Deen Lantern is built to respect your privacy. This policy describes what data the app uses and how.
 
@@ -24,7 +24,7 @@ This app is suitable for all ages. We do not knowingly collect personal data fro
 
 Contact
 
-Questions about this policy? Email deenlantern.support@gmail.com [or your actual support email].
+Questions about this policy? Email maaziqbal@hotmail.com
 
 Changes
 
